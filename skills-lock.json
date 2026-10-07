@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "upbit": {
+      "source": "upbit-official/upbit-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/upbit/upbit/SKILL.md",
+      "computedHash": "fc360923f8b9ff26dfa745adc3675f557d4bf259d8face42a0dd11156cd7f167"
+    }
+  }
+}
